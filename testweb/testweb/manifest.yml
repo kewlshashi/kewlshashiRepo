@@ -1,0 +1,7 @@
+---
+applications:
+- name: shashitest
+  memory: 1024M
+  host: shashitest
+  domain: cfapps.io
+  buildpack: java_buildpack
